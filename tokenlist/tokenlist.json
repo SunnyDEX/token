@@ -22,7 +22,7 @@
             "symbol": "SUNNY",
             "decimals": 18,
             "chainId": 59144,
-            "logoURI": "https://raw.githubusercontent.com/SunnyDEX/token/tokenlist/logos/sunny.png"
+            "logoURI": "https://raw.githubusercontent.com/SunnyDEX/token/main/tokenlist/logos/sunny.png"
         }
     ]
 }
