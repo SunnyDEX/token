@@ -17,6 +17,14 @@
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
         },
         {
+            "name": "Binance USD",
+            "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+            "symbol": "BUSD",
+            "decimals": 18,
+            "chainId": 59144,
+            "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+        },
+        {
             "name": "Sunny Dex",
             "address": "0x767a30903bDe2e8195c6A84b21Fb33D209370C7E",
             "symbol": "SUNNY",
